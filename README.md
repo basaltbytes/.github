@@ -2,7 +2,7 @@
 
 Creating applications, websites is the main activity of Basaltbytes. We specialize in turning complex challenges into elegant, scalable solutions. Our expertise lies in understanding your vision and translating it into digital reality.
 
-## Atoly
+## Atoly – Booking pages your customer will love
 
 _Atoly is the first SaaS product from Basaltbytes._
 
